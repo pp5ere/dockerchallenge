@@ -1,4 +1,7 @@
-# dockerchallenge
+# Docker's challenge
 This is a repository of docker's full clycle challenge
-name of the image from repository:
+
+Name of docker image in repository:
+```
 pp5ere/gohello
+```

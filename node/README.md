@@ -2,6 +2,6 @@
 To run this application, just execute:
 
 ```
-docker-compose up -d
+docker-compose up -d --build
 ```
 

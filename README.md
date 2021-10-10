@@ -1,5 +1,6 @@
 # Docker's challenges
-This is a repository of docker's full clycle challenges
+This is a repository of docker's full clycle challenges.
+
 To run the applications, you first need to clone this repository
 
 ```

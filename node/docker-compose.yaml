@@ -17,11 +17,13 @@ services:
       - db
       - nginx
   db: 
+    build:
+      context: ./mysql
     image: pp5ere/mysql:prod
     container_name: db
     restart: always
-    volumes:
-      - ./mysql/data/:/var/lib/mysql
+    #volumes:
+    #  - ./mysql/data/:/var/lib/mysql
 
     networks: 
       - nodelan

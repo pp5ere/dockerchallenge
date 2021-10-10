@@ -1,7 +1,6 @@
-# Docker's challenge
-This is a repository of docker's full clycle challenge
+# Docker's challenges
+This is a repository of docker's full clycle challenges
 
-Name of docker image in repository:
-```
-pp5ere/gohello
-```
+To run Golang application, open go folder and read the instructions
+
+To run nodejs application, open node folder and read the instructions
